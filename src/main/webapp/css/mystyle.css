@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.color-aqua {
+	background-color : aqua;
+	padding-bottom: 10px;
+}
+	
+.primary-background {
+	 	background-color : #865DFF!important;
+	}
